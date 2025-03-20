@@ -1,1 +1,3 @@
 Lorem Ipsum to feature-2 branch
+
+for new commit
